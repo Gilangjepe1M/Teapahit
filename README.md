@@ -1,4 +1,4 @@
-thus project for tea tesnet 
+thid project for tea tesnet 
 
 npm version patch
 npm publish
